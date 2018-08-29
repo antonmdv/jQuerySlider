@@ -1,0 +1,2 @@
+# jQuerySlider
+CoffeeTech Slider
